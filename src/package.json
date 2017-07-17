@@ -1,0 +1,26 @@
+{
+  "name": "test-libray-ng2",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akaiserg/test_angular2_library"
+  },
+  "author": {
+    "name": "Andrés Kaiser",
+    "email": "akais002@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akaiserg/test_angular2_library/issues"
+  },
+  "module": "test-libray-ng2.js",
+  "typings": "test-libray-ng2.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
